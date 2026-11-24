@@ -1,0 +1,5 @@
+# Tested with Python 3.11 (training and analysis run in the same environment)
+tensorflow==2.17.0
+numpy==1.26.4
+pandas>=2.0
+matplotlib>=3.7
